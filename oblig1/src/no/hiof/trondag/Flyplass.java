@@ -7,10 +7,15 @@ import java.util.Scanner;
 
 public class Flyplass {
 
-    Queue<Fly> landingsko = new LinkedList<Fly>();
-    Queue<Fly> avgangsko = new LinkedList<Fly>();
+    Queue<Fly> landingsko;
+    Queue<Fly> avgangsko;
     public static final int MAX_FLY_I_KO = 10;
     public static int antallFly = 0;
+
+    public Flyplass() {
+        this.landingsko = new LinkedList<Fly>();
+        this.avgangsko = new LinkedList<Fly>();
+    }
 
     public class Fly {
 
@@ -27,10 +32,10 @@ public class Flyplass {
     }
 
     public void simuler(int tidssteg, double avgangsFrekvens, double ankomstFrekvens){
-        Flyplass flyplass = new Flyplass();
         int antLandedeFly = 0;
         int antAvgangFly = 0;
         int avvisteFly = 0;
+        int tommeTidssteg = 0;
         for (int i = 0; i < tidssteg; i++){
 
             // Fly som skal lande
@@ -39,7 +44,7 @@ public class Flyplass {
 
             for (int k = 0; k < antallNyeFlySomSkalLande ; k++){
                 Fly fly = new Fly();
-                if (flyplass.landingsko.size() > MAX_FLY_I_KO){
+                if (landingsko.size() >= MAX_FLY_I_KO){
                     System.out.println("Landingskøen er full, og " + fly + " blir sent videre til en annen flyplass");
                     avvisteFly++;
                     continue;
@@ -54,7 +59,7 @@ public class Flyplass {
 
             for (int k = 0; k < antallNyeFlySomSkalTaAv ; k++){
                 Fly fly = new Fly();
-                if (flyplass.avgangsko.size() > MAX_FLY_I_KO){
+                if (avgangsko.size() >= MAX_FLY_I_KO){
                     System.out.println("Avgangskøen er full, " + fly + " må prøve avgang senere");
                     avvisteFly++;
                     continue;
@@ -70,6 +75,7 @@ public class Flyplass {
                 antAvgangFly++;
                 System.out.println(avgangsko.remove().toString() + " har tatt av.");
             } else {
+                tommeTidssteg++;
                 System.out.println("Flyplassen er tom.");
             }
 
@@ -82,6 +88,8 @@ public class Flyplass {
         System.out.println("Antall fly avvist:            " + avvisteFly);
         System.out.println("Antall fly klare for landing: " + landingsko.size());
         System.out.println("Antall fly klare for avgang:  " + avgangsko.size());
+        double tom = (((double)tommeTidssteg) / (double)tidssteg) * 100;
+        System.out.println("Flyplassen sto tom            " + tom + "% av tiden");
 
     }
 
