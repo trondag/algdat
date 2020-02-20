@@ -127,19 +127,6 @@ public class Main {
     return brett;
     }
 
-    private static boolean erFeltedLedig(int[][] brett, Stack<int[]> stack, int posX, int posY, int i, int i2, int i3) {
-        if ((posX + i < brett.length) && (posY + i2 < brett.length) && brett[posY + i2][posX + i] == 0 && !erBackTrack) {
-            stack.add(new int[]{i3, posX, posY});
-            return true;
-        } else if ((erBackTrack && sisteTrekk < i3)
-                && (posX + i < brett.length) && (posY + i2 < brett.length) && brett[posY + i2][posX + i] == 0) {
-            stack.add(new int[]{i3, posX, posY});
-            erBackTrack = false;
-            return true;
-        }
-        return false;
-    }
-
     private static void skrivUtRes(int[][] brett) {
         for(int i = 0; i < brett.length; i++){
             System.out.println();
