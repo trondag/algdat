@@ -13,7 +13,10 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int storrelse = 7;
-        los(storrelse, 2, 2);
+        long start = System.currentTimeMillis();
+        los(storrelse, 1, 1);
+        long end = System.currentTimeMillis();
+        System.out.println("tid brukt: " + (end-start) + "ms");
     }
 
     private static void los(int storrelse, int x, int y) {

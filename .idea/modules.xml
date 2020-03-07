@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backtracking1a/backtracking1a.iml" filepath="$PROJECT_DIR$/backtracking1a/backtracking1a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backtracking2/backtracking2.iml" filepath="$PROJECT_DIR$/backtracking2/backtracking2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backtracking3/backtracking3.iml" filepath="$PROJECT_DIR$/backtracking3/backtracking3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list3/list3.iml" filepath="$PROJECT_DIR$/list3/list3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list4/list4.iml" filepath="$PROJECT_DIR$/list4/list4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue4_2/src/main/main.iml" filepath="$PROJECT_DIR$/queue4_2/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue5/src/main/main1.iml" filepath="$PROJECT_DIR$/queue5/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oblig1/oblig1.iml" filepath="$PROJECT_DIR$/oblig1/oblig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue1/queue1.iml" filepath="$PROJECT_DIR$/queue1/queue1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue2/queue2.iml" filepath="$PROJECT_DIR$/queue2/queue2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue3/queue3.iml" filepath="$PROJECT_DIR$/queue3/queue3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue4/queue4.iml" filepath="$PROJECT_DIR$/queue4/queue4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion1/recursion1.iml" filepath="$PROJECT_DIR$/recursion1/recursion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion2/recursion2.iml" filepath="$PROJECT_DIR$/recursion2/recursion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion3/recursion3.iml" filepath="$PROJECT_DIR$/recursion3/recursion3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion4/recursion4.iml" filepath="$PROJECT_DIR$/recursion4/recursion4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion5/recursion5.iml" filepath="$PROJECT_DIR$/recursion5/recursion5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion7/recursion7.iml" filepath="$PROJECT_DIR$/recursion7/recursion7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion8/recursion8.iml" filepath="$PROJECT_DIR$/recursion8/recursion8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursionexer8_1/recursionexer8_1.iml" filepath="$PROJECT_DIR$/recursionexer8_1/recursionexer8_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursionexer8_2/recursionexer8_2.iml" filepath="$PROJECT_DIR$/recursionexer8_2/recursionexer8_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursionexer8_3/recursionexer8_3.iml" filepath="$PROJECT_DIR$/recursionexer8_3/recursionexer8_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchingAndSorting1/searchingAndSorting1.iml" filepath="$PROJECT_DIR$/searchingAndSorting1/searchingAndSorting1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchingAndSorting3/searchingAndSorting3.iml" filepath="$PROJECT_DIR$/searchingAndSorting3/searchingAndSorting3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springerproblemet/springerproblemet.iml" filepath="$PROJECT_DIR$/springerproblemet/springerproblemet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springerproblemet2/springerproblemet2.iml" filepath="$PROJECT_DIR$/springerproblemet2/springerproblemet2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack2/stack2.iml" filepath="$PROJECT_DIR$/stack2/stack2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack3/stack3.iml" filepath="$PROJECT_DIR$/stack3/stack3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack4/stack4.iml" filepath="$PROJECT_DIR$/stack4/stack4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack5/stack5.iml" filepath="$PROJECT_DIR$/stack5/stack5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue5/src/test/test.iml" filepath="$PROJECT_DIR$/queue5/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue4_2/src/test/test1.iml" filepath="$PROJECT_DIR$/queue4_2/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>
