@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9224de9d-6aed-4ef8-a6b4-0ab66876ae31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../src/no/hiof/trondag/Stack/Oppgave1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +34,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -57,14 +62,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stack2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -113,16 +119,17 @@
       <updated>1579511508508</updated>
       <workItem from="1579511512797" duration="2886000" />
       <workItem from="1579719042290" duration="117000" />
+      <workItem from="1583743358930" duration="278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3003000" />
+    <option name="totallyTimeSpent" value="3281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.124200426" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12526652" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />

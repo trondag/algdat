@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fdbc3da-1bf7-4ec6-851a-bb9956905f79" name="Default Changelist" comment="" />
+    <list default="true" id="0fdbc3da-1bf7-4ec6-851a-bb9956905f79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +28,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+            <state relative-caret-position="414">
+              <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#155#166#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -27,7 +40,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,8 +68,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -67,6 +80,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../queue5" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -117,6 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579774234729</updated>
       <workItem from="1579774237641" duration="5380000" />
+      <workItem from="1583743692110" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="stack">
       <created>1579782840630</created>
@@ -129,25 +144,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5380000" />
+    <option name="totallyTimeSpent" value="5397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="891" y="0" width="1036" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23360656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2387295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
@@ -155,15 +164,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,11 +191,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        <state relative-caret-position="414">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#155#166#0" expanded="true" />
           </folding>
         </state>
       </provider>

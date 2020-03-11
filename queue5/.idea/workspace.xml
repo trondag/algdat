@@ -2,29 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4ef84f3-2c29-4a50-82d3-510235e83a0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/oblig1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/out/production/oblig1/no/hiof/trondag/Flyplass$Fly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/out/production/oblig1/no/hiof/trondag/Flyplass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../queue4/src/no/hiof/trondag/EmptyCollectionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../queue4/src/no/hiof/trondag/QueueADT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../queue4_2/src/main/java/CircularArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../queue4_2/src/main/java/EmptyCollectionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../queue4_2/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../queue4_2/src/main/java/QueueADT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../queue4_2/src/test/java/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CircularArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmptyCollectionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QueueADT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oblig1/src/no/hiof/trondag/Flyplass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig1/src/no/hiof/trondag/Flyplass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack5/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +29,11 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../queue4_2/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
+            <state relative-caret-position="954">
               <caret line="67" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
@@ -79,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -90,8 +82,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,10 +103,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../android" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../queue4_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../queue4" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -166,29 +159,24 @@
       <option name="presentableId" value="Default" />
       <updated>1580304558718</updated>
       <workItem from="1580304561689" duration="6424000" />
+      <workItem from="1583743710750" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6424000" />
+    <option name="totallyTimeSpent" value="6466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.5131291" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.25586355" />
       <window_info id="Structure" order="1" sideWeight="0.5005417" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
@@ -196,15 +184,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +235,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../queue4_2/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="954">
           <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>

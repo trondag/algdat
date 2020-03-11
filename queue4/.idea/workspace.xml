@@ -2,20 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9201e1f7-aa2c-4dcb-ba0e-ddd1140a22c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/oblig1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/out/production/oblig1/no/hiof/trondag/Flyplass$Fly.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig1/out/production/oblig1/no/hiof/trondag/Flyplass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/no/hiof/trondag/CircularArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/no/hiof/trondag/EmptyCollectionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/no/hiof/trondag/QueueADT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oblig1/src/no/hiof/trondag/Flyplass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig1/src/no/hiof/trondag/Flyplass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oblig3/src/com/company/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oblig3/src/com/company/EmptyCollectionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oblig3/src/com/company/QueueIsFullException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queue5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../queue5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack5/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+            <state relative-caret-position="191">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,18 +54,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1296" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/CircularArrayQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1116">
-              <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -74,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/QueueADT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
+            <state relative-caret-position="767">
               <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
             </state>
           </provider>
@@ -103,15 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -122,8 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,9 +138,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -226,16 +214,17 @@
       <updated>1580151165263</updated>
       <workItem from="1580151167658" duration="852000" />
       <workItem from="1580215055859" duration="3089000" />
+      <workItem from="1583743754556" duration="1509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3941000" />
+    <option name="totallyTimeSpent" value="5450000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26914662" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -243,7 +232,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33260393" />
@@ -256,6 +244,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -385,20 +374,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/QueueADT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/EmptyCollectionException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-13/lib/src.zip!/java.base/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -413,25 +388,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/CircularArrayQueue.java" />
     <entry file="file://$PROJECT_DIR$/queue4.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/QueueADT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1296" />
+        <state relative-caret-position="767">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/CircularArrayQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/EmptyCollectionException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
+        <state relative-caret-position="54">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/no/hiof/trondag/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+        <state relative-caret-position="191">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
