@@ -258,7 +258,7 @@ public class Main {
 
         switch (metode) {
             case "i":
-                C =  (T / Math.pow( 10000, 2));
+                C =  (T / Math.pow( n, 2));
                 System.out.println("C = " + C);
             case "q":
 
