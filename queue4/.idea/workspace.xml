@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9201e1f7-aa2c-4dcb-ba0e-ddd1140a22c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../oblig3/src/com/company/CircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig3/src/com/company/EmptyCollectionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../oblig3/src/com/company/QueueIsFullException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/out/production/oblig3/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oblig3/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../queue5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../queue5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springerproblemet/out/production/springerproblemet/no/hiof/trondag/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack5/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stack5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack5/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

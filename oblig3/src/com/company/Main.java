@@ -17,30 +17,41 @@ public class Main {
         int size = scanner.nextInt();
         int[] array = new int[size];
         System.out.println("Array: ");
-        for (int i = 0; i < array.length; i++){
-            array[i] = (int)Math.floor(Math.random()*size);
-            System.out.print(array[i] + ", ");
-        }
+        fyllArray(array);
         System.out.println("\nHvilken metode?  [i]nnstikksortering, [q]uicksort, [f]lettesortering eller [r]radixsortering");
         String metode = scanner.next();
-        array = hvilkenMetode(metode, array);
-        System.out.println("sortert: ");
-        for (int i = 0; i < array.length; i++){
-            System.out.print(array[i] + ", ");
+        int typeTest = hvilkenTest();
+        if (typeTest == 1) {
+            array = hvilkenMetode(metode, array);
+            System.out.println("sortert: ");
+            for (int i = 0; i < array.length; i++) {
+                System.out.print(array[i] + ", ");
+            }
+            System.out.println("\nTid brukt: " + tidBrukt + "ms");
         }
-        System.out.println("\nTid brukt: " + tidBrukt + "ms");
+
+        else {
+            utregning(metode, size);
+        }
+    }
+
+    private static int[] fyllArray(int[] array) {
+        for (int i = 0; i < array.length; i++){
+            array[i] = (int)Math.floor(Math.random()*array.length);
+        }
+        return array;
     }
 
     private static int[] hvilkenMetode(String metode, int[] array) throws EmptyCollectionException {
         switch (metode) {
             case "i":
-                return innstikksortering(hvilkenTest(), array);
+                return innstikksortering(array);
             case "q":
-                return quicksort(hvilkenTest(), array);
+                return quicksort(array);
             case "f":
                 return flettesortering( array, 2);
             case "r":
-                return radixsortering(hvilkenTest(), array);
+                return radixsortering(array);
             default: {
                 System.out.println("Feil input, hvilken metode?  [i]nnstikksortering, " +
                         "[q]uicksort, [f]lettesortering eller [r]radixsortering");
@@ -51,7 +62,7 @@ public class Main {
         return array;
     }
 
-    private static int[] innstikksortering(int hvilkenTest, int[] array) {
+    private static int[] innstikksortering( int[] array) {
         long start = System.currentTimeMillis();
         for (int i = 0; i < array.length; i++){
             int minsteElement = array[i];
@@ -71,7 +82,7 @@ public class Main {
         return array;
     }
 
-    private static int[] quicksort(int hvilkenTest, int[] array) {
+    private static int[] quicksort( int[] array) {
 
         long start = System.currentTimeMillis();
         int[] result =  quickSort(array, 0, array.length-1);
@@ -109,7 +120,7 @@ public class Main {
     }
 
 
-    private static int[] radixsortering(int hvilkenTest, int[] array) throws EmptyCollectionException {
+    private static int[] radixsortering( int[] array) throws EmptyCollectionException {
         long start = System.currentTimeMillis();
         int[] result = sort(array, 10);
         long end  = System.currentTimeMillis();
@@ -221,6 +232,41 @@ public class Main {
                     a[j++] = (int) Q[i].dequeue();
 
         return a;
+    }
+
+    static void utregning(String metode, int n) throws EmptyCollectionException {
+        long T = 0;
+        for (int i = 0; i < 5; i++) {
+            int[] array = new int[n];
+            array = fyllArray(array);
+            switch (metode) {
+                case "i":
+                    innstikksortering(array);
+                case "q":
+                    quicksort(array);
+                case "f":
+                    flettesortering(array, 2);
+                case "r":
+                    radixsortering(array);
+            }
+            T += tidBrukt;
+        }
+        T /= 5;
+        System.out.println("snitt: " + T + "ms");
+
+        double C = 0;
+
+        switch (metode) {
+            case "i":
+                C =  (T / Math.pow( 10000, 2));
+                System.out.println("C = " + C);
+            case "q":
+
+            case "f":
+
+            case "r":
+
+        }
     }
 
 }
